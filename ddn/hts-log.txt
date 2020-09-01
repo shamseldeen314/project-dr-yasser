@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Wed, 12 Aug 2020 23:45:44 at https://demo.dashboardpack.com/kero-html-sidebar-pro
+(winhttrack https://demo.dashboardpack.com/kero-html-sidebar-pro -O "/Users/yasser/websites/ddn" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:52:22	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/kero-html-sidebar-pro/analytics-dashboard.html (from https://demo.dashboardpack.com/kero-html-sidebar-pro/)
+23:52:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.dashboardpack.com/kero-html-sidebar-pro/assets/fonts/BF.svg (from https://demo.dashboardpack.com/kero-html-sidebar-pro/main.07a59de7b920cd76b874.css)
+23:52:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://demo.dashboardpack.com/kero-html-sidebar-pro/assets/fonts/BG.svg (from https://demo.dashboardpack.com/kero-html-sidebar-pro/main.07a59de7b920cd76b874.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 40 seconds : 398 links scanned, 394 files written (27678912 bytes overall) [8237063 bytes received at 20592 bytes/sec], 22686834 bytes transferred using HTTP compression in 336 files, ratio 13%, 49.8 requests per connection
+(1 errors, 2 warnings, 0 messages)
